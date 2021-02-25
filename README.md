@@ -24,6 +24,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthough GIF
 
 <img src="walkthrough3.gif" width=250><br>
+<img src="walkthrough4.gif" width=250><br>
 
 ### Notes
 - Youtube API wasn't initializing correctly, had to change the API from 30 to 29 in build.gradle
